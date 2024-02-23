@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aliabbas101.github.io/posts/</loc>
+    <loc>https://syedalirizvi.com/posts/2024-02-23-enterprise-web-applications/</loc>
+    <lastmod>2024-02-23T11:31:55+00:00</lastmod>
+  </url><url>
+    <loc>https://syedalirizvi.com/posts/</loc>
+    <lastmod>2024-02-23T11:31:55+00:00</lastmod>
+  </url><url>
+    <loc>https://syedalirizvi.com/</loc>
+    <lastmod>2024-02-23T11:31:55+00:00</lastmod>
+  </url><url>
+    <loc>https://syedalirizvi.com/posts/test/</loc>
     <lastmod>2024-02-22T11:04:55+00:00</lastmod>
   </url><url>
-    <loc>https://aliabbas101.github.io/posts/test/</loc>
-    <lastmod>2024-02-22T11:04:55+00:00</lastmod>
+    <loc>https://syedalirizvi.com/archives/</loc>
   </url><url>
-    <loc>https://aliabbas101.github.io/</loc>
-    <lastmod>2024-02-22T11:04:55+00:00</lastmod>
+    <loc>https://syedalirizvi.com/categories/</loc>
   </url><url>
-    <loc>https://aliabbas101.github.io/archives/</loc>
+    <loc>https://syedalirizvi.com/experiments/</loc>
   </url><url>
-    <loc>https://aliabbas101.github.io/categories/</loc>
+    <loc>https://syedalirizvi.com/search/</loc>
   </url><url>
-    <loc>https://aliabbas101.github.io/experiments/</loc>
+    <loc>https://syedalirizvi.com/series/</loc>
   </url><url>
-    <loc>https://aliabbas101.github.io/search/</loc>
-  </url><url>
-    <loc>https://aliabbas101.github.io/series/</loc>
-  </url><url>
-    <loc>https://aliabbas101.github.io/tags/</loc>
+    <loc>https://syedalirizvi.com/tags/</loc>
   </url>
 </urlset>
