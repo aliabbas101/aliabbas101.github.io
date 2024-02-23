@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Syed Ali Rizvi</title>
-    <link>http://localhost:1313/</link>
+    <link>https://aliabbas101.github.io/</link>
     <description>Recent content on Syed Ali Rizvi</description>
     <image>
       <title>Syed Ali Rizvi</title>
-      <url>http://localhost:1313/images/msg.png</url>
-      <link>http://localhost:1313/images/msg.png</link>
+      <url>https://aliabbas101.github.io/images/msg.png</url>
+      <link>https://aliabbas101.github.io/images/msg.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 22 Feb 2024 11:04:55 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aliabbas101.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Power of Large Language Models</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://aliabbas101.github.io/posts/test/</link>
       <pubDate>Thu, 22 Feb 2024 11:04:55 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://aliabbas101.github.io/posts/test/</guid>
       <description>A brief description of what this project does and who it&amp;rsquo;s for The Power of Large Language Models: Unleashing the Potential In recent years, large language models have emerged as powerful tools in the field of natural language processing, transforming the way we interact with and understand language. These models, like GPT-3.5, have opened up new possibilities in various applications, from content generation to language translation and beyond. In this blog post, we&amp;rsquo;ll explore the capabilities of these models and their impact on the world of technology.</description>
     </item>
     <item>
       <title>Experiments</title>
-      <link>http://localhost:1313/experiments/</link>
+      <link>https://aliabbas101.github.io/experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experiments/</guid>
+      <guid>https://aliabbas101.github.io/experiments/</guid>
       <description>experiments</description>
     </item>
   </channel>
