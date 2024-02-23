@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Monsters_refs on Syed Ali Rizvi</title>
+    <link>http://localhost:1313/monsters_refs/</link>
+    <description>Recent content in Monsters_refs on Syed Ali Rizvi</description>
+    <image>
+      <title>Syed Ali Rizvi</title>
+      <url>http://localhost:1313/images/msg.png</url>
+      <link>http://localhost:1313/images/msg.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/monsters_refs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Althea-Rubber</title>
+      <link>http://localhost:1313/experiments/althea-rubber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experiments/althea-rubber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amity-Granite</title>
+      <link>http://localhost:1313/experiments/amity-granite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experiments/amity-granite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angele-Steel</title>
+      <link>http://localhost:1313/experiments/angele-steel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experiments/angele-steel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gus-Vinyl</title>
+      <link>http://localhost:1313/experiments/gus-vinyl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experiments/gus-vinyl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rona-Wood</title>
+      <link>http://localhost:1313/experiments/rona-wood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experiments/rona-wood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wat-Glass</title>
+      <link>http://localhost:1313/experiments/wat-glass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experiments/wat-glass/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
