@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://syedalirizvi.com/posts/2024-02-23-enterprise-web-applications/</loc>
-    <lastmod>2024-02-23T11:31:55+00:00</lastmod>
-  </url><url>
-    <loc>https://syedalirizvi.com/posts/</loc>
-    <lastmod>2024-02-23T11:31:55+00:00</lastmod>
-  </url><url>
-    <loc>https://syedalirizvi.com/</loc>
-    <lastmod>2024-02-23T11:31:55+00:00</lastmod>
-  </url><url>
-    <loc>https://syedalirizvi.com/posts/test/</loc>
-    <lastmod>2024-02-22T11:04:55+00:00</lastmod>
-  </url><url>
     <loc>https://syedalirizvi.com/archives/</loc>
   </url><url>
     <loc>https://syedalirizvi.com/categories/</loc>
@@ -23,6 +11,8 @@
     <loc>https://syedalirizvi.com/search/</loc>
   </url><url>
     <loc>https://syedalirizvi.com/series/</loc>
+  </url><url>
+    <loc>https://syedalirizvi.com/</loc>
   </url><url>
     <loc>https://syedalirizvi.com/tags/</loc>
   </url>

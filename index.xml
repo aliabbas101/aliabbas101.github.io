@@ -11,22 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 11:31:55 +0000</lastBuildDate>
     <atom:link href="https://syedalirizvi.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Enterprise Web Applications</title>
-      <link>https://syedalirizvi.com/posts/2024-02-23-enterprise-web-applications/</link>
-      <pubDate>Fri, 23 Feb 2024 11:31:55 +0000</pubDate>
-      <guid>https://syedalirizvi.com/posts/2024-02-23-enterprise-web-applications/</guid>
-      <description>see: https://syedalirizvi.com/</description>
-    </item>
-    <item>
-      <title>Power of Large Language Models</title>
-      <link>https://syedalirizvi.com/posts/test/</link>
-      <pubDate>Thu, 22 Feb 2024 11:04:55 +0000</pubDate>
-      <guid>https://syedalirizvi.com/posts/test/</guid>
-      <description>A brief description of what this project does and who it&amp;rsquo;s for The Power of Large Language Models: Unleashing the Potential In recent years, large language models have emerged as powerful tools in the field of natural language processing, transforming the way we interact with and understand language. These models, like GPT-3.5, have opened up new possibilities in various applications, from content generation to language translation and beyond. In this blog post, we&amp;rsquo;ll explore the capabilities of these models and their impact on the world of technology.</description>
-    </item>
     <item>
       <title>Experiments</title>
       <link>https://syedalirizvi.com/experiments/</link>
