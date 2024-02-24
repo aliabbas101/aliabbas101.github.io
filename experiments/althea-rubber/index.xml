@@ -12,12 +12,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/experiments/althea-rubber/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Experiments</title>
-      <link>http://localhost:1313/experiments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experiments/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
