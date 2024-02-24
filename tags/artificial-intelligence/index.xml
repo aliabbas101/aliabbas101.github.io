@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Artificial Intelligence on Syed Ali Rizvi</title>
-    <link>https://syedalirizvi.com/categories/artificial-intelligence/</link>
+    <link>https://syedalirizvi.com/tags/artificial-intelligence/</link>
     <description>Recent content in Artificial Intelligence on Syed Ali Rizvi</description>
     <image>
       <title>Syed Ali Rizvi</title>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 Feb 2024 20:13:06 +0000</lastBuildDate>
-    <atom:link href="https://syedalirizvi.com/categories/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://syedalirizvi.com/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLM Agents: Generative AI for the future</title>
       <link>https://syedalirizvi.com/posts/test/</link>
