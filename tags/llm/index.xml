@@ -15,10 +15,10 @@
     <atom:link href="https://syedalirizvi.com/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLM Agents: Generative AI for the future</title>
-      <link>https://syedalirizvi.com/posts/test/</link>
+      <link>https://syedalirizvi.com/posts/llm-agents/</link>
       <pubDate>Sat, 24 Feb 2024 20:13:06 +0000</pubDate>
-      <guid>https://syedalirizvi.com/posts/test/</guid>
-      <description>Large Language Models </description>
+      <guid>https://syedalirizvi.com/posts/llm-agents/</guid>
+      <description>Recently, State-of-the-Art (SOTA) language models such as OpenAI&amp;rsquo;s gpt-3.5-turbo, gpt-4, llama, Mixture of Experts models such as Mixtral&amp;rsquo;s mistral-8x7b have demonstrated exceptional capabilities when it comes to tasks involving code synthesis, Natural Language Understanding (NLU) and Natural Language Generation (NLG) and the main reason for this is volume of data they have been trained on, we have been witnessing a sudden technological shift and adaptation of these models but if you have been active consumer of these models, either as an end-user or a developer, you might have already noticed some of their limitations.</description>
     </item>
   </channel>
 </rss>
