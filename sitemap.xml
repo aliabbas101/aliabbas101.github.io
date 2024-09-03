@@ -2,32 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://syedalirizvi.com/posts/towards-low-latency-ai/</loc>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
+  </url><url>
     <loc>https://syedalirizvi.com/posts/llm-agents/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/tags/artificial-intelligence/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/categories/artificial-intelligence/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/categories/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
+  </url><url>
+    <loc>https://syedalirizvi.com/tags/conversational-ai/</loc>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/tags/llm/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/tags/llm-agents/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/posts/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
+  </url><url>
+    <loc>https://syedalirizvi.com/tags/speech-to-text/</loc>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/tags/</loc>
-    <lastmod>2024-02-24T20:13:06+00:00</lastmod>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
+  </url><url>
+    <loc>https://syedalirizvi.com/tags/text-to-speech/</loc>
+    <lastmod>2024-09-03T04:23:55+00:00</lastmod>
   </url><url>
     <loc>https://syedalirizvi.com/monsters_refs/algorithms-visualization-app/</loc>
   </url><url>

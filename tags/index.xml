@@ -11,27 +11,48 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Feb 2024 20:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 04:23:55 +0000</lastBuildDate>
     <atom:link href="https://syedalirizvi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence</title>
       <link>https://syedalirizvi.com/tags/artificial-intelligence/</link>
-      <pubDate>Sat, 24 Feb 2024 20:13:06 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
       <guid>https://syedalirizvi.com/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conversational AI</title>
+      <link>https://syedalirizvi.com/tags/conversational-ai/</link>
+      <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
+      <guid>https://syedalirizvi.com/tags/conversational-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
       <link>https://syedalirizvi.com/tags/llm/</link>
-      <pubDate>Sat, 24 Feb 2024 20:13:06 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
       <guid>https://syedalirizvi.com/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM Agents</title>
       <link>https://syedalirizvi.com/tags/llm-agents/</link>
-      <pubDate>Sat, 24 Feb 2024 20:13:06 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
       <guid>https://syedalirizvi.com/tags/llm-agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speech-to-Text</title>
+      <link>https://syedalirizvi.com/tags/speech-to-text/</link>
+      <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
+      <guid>https://syedalirizvi.com/tags/speech-to-text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text-to-Speech</title>
+      <link>https://syedalirizvi.com/tags/text-to-speech/</link>
+      <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
+      <guid>https://syedalirizvi.com/tags/text-to-speech/</guid>
       <description></description>
     </item>
   </channel>
