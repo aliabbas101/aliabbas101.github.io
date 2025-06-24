@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Syed Ali Rizvi</title>
-    <link>https://syedalirizvi.com/posts/</link>
+    <link>https://syedalirizvi.dev/posts/</link>
     <description>Recent content in Posts on Syed Ali Rizvi</description>
     <image>
       <title>Syed Ali Rizvi</title>
-      <url>https://syedalirizvi.com/images/msg.png</url>
-      <link>https://syedalirizvi.com/images/msg.png</link>
+      <url>https://syedalirizvi.dev/images/msg.png</url>
+      <link>https://syedalirizvi.dev/images/msg.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Sep 2024 04:23:55 +0000</lastBuildDate>
-    <atom:link href="https://syedalirizvi.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://syedalirizvi.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conversational AI: Building Low-Latency voicebots</title>
-      <link>https://syedalirizvi.com/posts/towards-low-latency-ai/</link>
+      <link>https://syedalirizvi.dev/posts/towards-low-latency-ai/</link>
       <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
-      <guid>https://syedalirizvi.com/posts/towards-low-latency-ai/</guid>
-      <description>Large Language Models have recently demonstrated impressive conversational capabilities, the newer variants of Generative Pretrained Transformers such as GPT-4o from OpenAI is has been optimized for conversations,
-Core Components </description>
+      <guid>https://syedalirizvi.dev/posts/towards-low-latency-ai/</guid>
+      <description>&lt;p&gt;Large Language Models have recently demonstrated impressive conversational capabilities, the newer variants of Generative Pretrained Transformers such as GPT-4o from OpenAI is has been optimized for conversations,&lt;/p&gt;
+&lt;h1 id=&#34;core-components&#34;&gt;Core Components&lt;/h1&gt;</description>
     </item>
     <item>
       <title>LLM Agents: Future of Generative Artificial Intelligence</title>
-      <link>https://syedalirizvi.com/posts/llm-agents/</link>
+      <link>https://syedalirizvi.dev/posts/llm-agents/</link>
       <pubDate>Tue, 03 Sep 2024 04:23:55 +0000</pubDate>
-      <guid>https://syedalirizvi.com/posts/llm-agents/</guid>
-      <description>Recently, State-of-the-Art (SOTA) language models such as OpenAI&amp;rsquo;s gpt-3.5-turbo, gpt-4, llama, Mixture of Experts models such as Mixtral&amp;rsquo;s mistral-8x7b have demonstrated exceptional capabilities when it comes tasks like code synthesis, Natural Language Understanding (NLU) and Natural Language Generation (NLG), the main reason being the volume of data they have been trained on, we have been witnessing a sudden technological shift and adaptation of these models and without ignoring the fact that if you have been active consumer of these models, either as an end-user or a developer, you might have already noticed some of their limitations as well.</description>
+      <guid>https://syedalirizvi.dev/posts/llm-agents/</guid>
+      <description>&lt;p&gt;Recently, State-of-the-Art (SOTA) language models such as OpenAI&amp;rsquo;s gpt-3.5-turbo, gpt-4, llama, Mixture of Experts models such as Mixtral&amp;rsquo;s mistral-8x7b have demonstrated exceptional capabilities when it comes tasks like code synthesis, Natural Language Understanding (NLU) and Natural Language Generation (NLG), the main reason being the volume of data they have been trained on, we have been witnessing a sudden technological shift and adaptation of these models and without ignoring the fact that if you have been active consumer of these models, either as an end-user or a developer, you might have already noticed some of their limitations as well.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
